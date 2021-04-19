@@ -25,5 +25,5 @@ Type: (virutual environment name)\Scripts\activate
 
 <h2>Project info</h2>
 <p>
-This project is about creating a django app that sorts through YouTube video collection
+This project is about creating a django app that sorts through YouTube video collection.
 </p>
